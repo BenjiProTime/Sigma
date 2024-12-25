@@ -1,0 +1,171 @@
+
+
+
+{
+  "team": "Manchester United",
+  "league": "Premier League",
+  "stadium": "Old Trafford",
+  "budget": 200000000,
+  "players": [
+    {
+      "id": 1,
+      "name": "Altay Bayındır",
+      "age": 26,
+      "position": "Torhüter",
+      "nationality": "Türkei",
+      "rating": 77
+    },
+    {
+      "id": 2,
+      "name": "Tom Heaton",
+      "age": 38,
+      "position": "Torhüter",
+      "nationality": "England",
+      "rating": 75
+    },
+    {
+      "id": 3,
+      "name": "André Onana",
+      "age": 28,
+      "position": "Torhüter",
+      "nationality": "Kamerun",
+      "rating": 88
+    },
+    {
+      "id": 4,
+      "name": "Diogo Dalot",
+      "age": 25,
+      "position": "Rechter Verteidiger",
+      "nationality": "Portugal",
+      "rating": 83
+    },
+    {
+      "id": 5,
+      "name": "Victor Lindelöf",
+      "age": 30,
+      "position": "Innenverteidiger",
+      "nationality": "Schweden",
+      "rating": 78
+    },
+    {
+      "id": 6,
+      "name": "Harry Maguire",
+      "age": 31,
+      "position": "Innenverteidiger",
+      "nationality": "England",
+      "rating": 82
+    },
+    {
+      "id": 7,
+      "name": "Lisandro Martínez",
+      "age": 26,
+      "position": "Innenverteidiger",
+      "nationality": "Argentinien",
+      "rating": 84
+    },
+    {
+      "id": 8,
+      "name": "Luke Shaw",
+      "age": 29,
+      "position": "Linker Verteidiger",
+      "nationality": "England",
+      "rating": 83
+    },
+    {
+      "id": 9,
+      "name": "Casemiro",
+      "age": 32,
+      "position": "Defensives Mittelfeld",
+      "nationality": "Brasilien",
+      "rating": 83
+    },
+    {
+      "id": 10,
+      "name": "Bruno Fernandes",
+      "age": 30,
+      "position": "Offensives Mittelfeld",
+      "nationality": "Portugal",
+      "rating": 89
+    },
+    {
+      "id": 11,
+      "name": "Christian Eriksen",
+      "age": 32,
+      "position": "Zentrales Mittelfeld",
+      "nationality": "Dänemark",
+      "rating": 78
+    },
+    {
+      "id": 12,
+      "name": "Mason Mount",
+      "age": 25,
+      "position": "Offensives Mittelfeld",
+      "nationality": "England",
+      "rating": 80
+    },
+    {
+      "id": 14,
+      "name": "Marcus Rashford",
+      "age": 27,
+      "position": "Linker Flügel",
+      "nationality": "England",
+      "rating": 82
+    },
+    {
+      "id": 15,
+      "name": "Antony",
+      "age": 24,
+      "position": "Rechter Flügel",
+      "nationality": "Brasilien",
+      "rating": 79
+    },
+    {
+      "id": 16,
+      "name": "Alejandro Garnacho",
+      "age": 20,
+      "position": "Linker Flügel",
+      "nationality": "Argentinien",
+      "rating": 83
+    },
+    {
+      "id": 17,
+      "name": "Rasmus Højlund",
+      "age": 21,
+      "position": "Stürmer",
+      "nationality": "Dänemark",
+      "rating": 82
+    },
+    {
+      "id": 19,
+      "name": "Kobbie Mainoo",
+      "age": 19,
+      "position": "Zentrales Mittelfeld",
+      "nationality": "England",
+      "rating": 81
+    },
+    {
+    "id": 20,
+      "name": "Noussair Mazraoui",
+      "age": 26,
+      "position": "Rechter Verteidiger",
+      "nationality": "Marokko",
+      "rating": 85
+    },
+    {
+    "id": 21,
+      "name": "Lenny Yoro",
+      "age": 18,
+      "position": "Innenverteidiger",
+      "nationality": "Frankreich",
+      "rating": 79
+    },
+    {
+    "id": 22,
+      "name": "Amad Diallo",
+      "age": 21,
+      "position": "Rechter Flügel",
+      "nationality": "Elfenbeinküste",
+      "rating": 83
+    }
+  ]
+}
